@@ -40,4 +40,4 @@ cd pos-ui-react
 
 
 
-![POS UI Screenshot](./public/assignment.png)
+![POS UI Screenshot](./src/assets/images/assignment.png)
