@@ -37,3 +37,7 @@ The application replicates the layout, design, and interactions of a POS system 
 ```bash
 git clone https://github.com/your-username/pos-ui-react.git
 cd pos-ui-react
+
+
+
+![POS UI Screenshot](./src/assets/Assignment_Final -Ui.png)
